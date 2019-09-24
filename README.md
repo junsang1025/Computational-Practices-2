@@ -21,3 +21,15 @@ Projectors
 Proximity sensors
 
 Code that uses the proximity sensor and the live feed video of the flowers and water fall.
+
+## teamLab Planets TOKYO July 7, 2018 - Fall 2020 Toyosu, Tokyo, Japan
+
+location data of people in the water
+
+Proximity date of the people in the water
+
+data of laser crossing around the people in the water
+
+water
+
+projecters
