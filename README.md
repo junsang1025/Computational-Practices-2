@@ -33,3 +33,35 @@ data of laser crossing around the people in the water
 water
 
 projecters
+
+Where the people are at
+
+Where the fish are at
+
+Boundaries of the set
+
+Color of the circles and fish
+
+Trail of fish
+
+fish swimming
+
+position of the fish
+
+velocity of the fish
+
+shape of the fish
+
+animation
+
+future paths
+
+start and end point of the fish
+
+flowers appearing after fish
+
+USER INPUT
+
+-move
+
+-reach to touch the fish // fish becomes flowers
