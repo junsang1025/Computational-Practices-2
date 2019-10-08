@@ -65,3 +65,15 @@ USER INPUT
 -move
 
 -reach to touch the fish // fish becomes flowers
+
+## Avoiding poop
+
+Position of the finger
+
+Position of the poop
+
+Score tracker
+
+Timer
+
+Score saver
