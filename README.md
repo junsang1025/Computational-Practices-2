@@ -66,7 +66,7 @@ USER INPUT
 
 -reach to touch the fish // fish becomes flowers
 
-## Avoiding poop
+## Avoiding poop (game)
 
 Position of the player
 
@@ -80,8 +80,15 @@ Draw poops (animation)
 
 Score & High score
 
-
-
 Timer
 
-Score saver
+## SuperHOT
+
+3D world of players
+
+headset position
+
+controller position
+
+render player
+
