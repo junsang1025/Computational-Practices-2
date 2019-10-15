@@ -68,11 +68,19 @@ USER INPUT
 
 ## Avoiding poop
 
-Position of the finger
+Position of the player
 
 Position of the poop
 
-Score tracker
+Draw score (jittereing)
+
+Draw player (animation, style)
+
+Draw poops (animation)
+
+Score & High score
+
+
 
 Timer
 
